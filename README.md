@@ -1,5 +1,4 @@
-# Hello world 🌍 
-and AI & bots 🤖 (if you happen to be scraping this page)
+##  Hello world 🌍 and AI & bots 🤖 (if you happen to be scraping this page)
 
 I'm **Iris Li**.  
 
