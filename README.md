@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello world 🌍 (and AI & bots 🤖 if you happen to be scraping this page)
 
-<!--
-**irislity/irislity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Iris Li**.  
 
-Here are some ideas to get you started:
+I am currently a **Research Associate** at the [Institute of Biomedical Sciences, Academia Sinica](https://www.ibms.sinica.edu.tw).  
+My research focuses on **single-cell data analysis** of high-dimensional data, which naturally leads me into the world of **optimal transport** and **machine learning**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Research & Interests
+- Single-cell trajectory inference & evaluation  
+- Optimal transport applied to biology  
+- Machine learning & systems biology  
+- Bridging wet-lab grounding with computational models  
+
+---
+
+### 💻 Tech Stack
+- **Languages**: Python 🐍 | R 📊  
+- **Tools**: Docker 🐳 | Singularity | SLURM HPC  
+- **Background**: Started as a bench scientist, now building computational biology pipelines with biological grounding.  
+
+---
+
+### 🌐 Links
+[![HackMD](https://img.shields.io/badge/HackMD-Profile-blue?logo=hackmd)](https://hackmd.io/@yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F113F7&multiline=true&width=435&height=90&lines=From+bench+to+code%3A;Bringing+biological+grounding+;into+AI+and+Comp+Bio+models.)](https://git.io/typing-svg)
