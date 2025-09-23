@@ -12,7 +12,7 @@ My research focuses on **single-cell data analysis** of high-dimensional data, w
 
 ### 🔬 Research & Interests
 - Single-cell trajectory inference & evaluation
-- Gene Regulatory Networks 
+- Gene regulatory networks 
 - Optimal transport applied to biology  
 - Machine learning & systems biology  
 - Bridging wet-lab grounding with computational models  
