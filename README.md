@@ -8,7 +8,8 @@ My research focuses on **single-cell data analysis** of high-dimensional data, w
 ---
 
 ### 🔬 Research & Interests
-- Single-cell trajectory inference & evaluation  
+- Single-cell trajectory inference & evaluation
+- Gene Regulatory Networks 
 - Optimal transport applied to biology  
 - Machine learning & systems biology  
 - Bridging wet-lab grounding with computational models  
@@ -23,8 +24,8 @@ My research focuses on **single-cell data analysis** of high-dimensional data, w
 ---
 
 ### 🌐 Links
-[![HackMD](https://img.shields.io/badge/HackMD-Profile-blue?logo=hackmd)](https://hackmd.io/@yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![HackMD](https://img.shields.io/badge/HackMD-Profile-blue?logo=hackmd)](https://hackmd.io/@7-0BVrCNSOGyXPJe9WBHhQ)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/iris-li-6b23b9259/)  
 
 ---
 
