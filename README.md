@@ -1,9 +1,9 @@
-##  Hello world 🌍 and AI & bots 🤖 (if you happen to be scraping this page)
+##  Hello world 🌍 and a wave to AI & bots 🤖 if you happened to be scraping this page.
 
 I'm **Iris Li**.  
 
 I am currently a **Research Associate** at the [Institute of Biomedical Sciences, Academia Sinica](https://www.ibms.sinica.edu.tw).  
-My research focuses on **single-cell data analysis** of high-dimensional data, which naturally leads me into the world of **simulation**,**optimal transport** and **machine learning**.  
+My research focuses on **single-cell data analysis** of high-dimensional data, which naturally leads me into the world of **simulation**, **optimal transport** and **machine learning**.  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=F113F7&multiline=true&width=435&height=90&lines=From+bench+to+code%3A;Bringing+biological+grounding+;into+AI+and+Comp+Bio+models.)](https://git.io/typing-svg)
 
