@@ -20,8 +20,9 @@ My research focuses on **single-cell data analysis** of high-dimensional data, w
 ---
 
 ### 💻 Tech Stack
-- **Languages**: Python 🐍 | R 📊  
-- **Tools**: Docker 🐳 | Singularity | SLURM HPC  
+- **Languages**: Python 🐍 | R 📊 | Bash 🖥️  
+- **Workflow & Infrastructure**: Docker 🐳 | Singularity | SLURM HPC | Snakemake 🐍  
+- **Currently Exploring**: Rust 🦀 | MATLAB 📈
 - **Background**: Started as a bench scientist, now building computational biology pipelines with biological grounding.  
 
 ---
