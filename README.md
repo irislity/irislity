@@ -30,7 +30,7 @@ My research focuses on **single-cell data analysis** of high-dimensional data, w
 ### 🌐 Links
 [![HackMD](https://img.shields.io/badge/HackMD-Profile-blue?logo=hackmd)](https://hackmd.io/@7-0BVrCNSOGyXPJe9WBHhQ)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/iris-li-6b23b9259/)  
-
+[![Google Scholar](https://scholar.google.com/citations?hl=en&user=L0dpImcAAAAJ)
 ---
 
 
